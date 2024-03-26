@@ -10,4 +10,5 @@ I built a message generator program that outputs a new random message every time
 3. The function then returns catQuotes with a randomIndex of 0 - 4 because there are 5 quotes
 4. To call the function, I logged randomQuotes with the const function of generateRandomQuote as it's value
 
+![Cat GIF](giphy.gif)
 
