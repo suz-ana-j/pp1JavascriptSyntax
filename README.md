@@ -17,7 +17,8 @@ This project assignment was for only the JavaScript Code. To use the code, I cou
 I wrote the JavaScript Syntax on Visual Studio Code. I cloned the repository to vs code, then created my code and pushed the project to github through the main branch. 
 
 ## Licence
-CopyRight suz-ana-j    MIT License 
+Copyright (c) 2024 suz-ana-j
+MIT License
 
 ![Cat GIF](giphy.gif)
 
