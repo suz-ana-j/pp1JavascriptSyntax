@@ -10,5 +10,14 @@ I built a message generator program that outputs a new random message every time
 * The function then returns catQuotes with a randomIndex of 0 - 4 because there are 5 quotes
 * To call the function, I logged randomQuotes with the const function of generateRandomQuote as it's value
 
+## How to Use
+This project assignment was for only the JavaScript Code. To use the code, I could write HTML & CSS for an internet-page filled with funny cat photos and a button titled "funny-cat-quotes" that randomly generates funny cat quotes. 
+
+## Technologies
+I wrote the JavaScript Syntax on Visual Studio Code. I cloned the repository to vs code, then created my code and pushed the project to github through the main branch. 
+
+## Licence
+CopyRight suz-ana-j    MIT License 
+
 ![Cat GIF](giphy.gif)
 
