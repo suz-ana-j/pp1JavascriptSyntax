@@ -11,7 +11,7 @@ I built a message generator program that outputs a new random message every time
 * To call the function, I logged randomQuotes with the const function of generateRandomQuote as its value
 
 ## How to Use
-This project assignment was for only the JavaScript Code. To use the code, I could write HTML & CSS for an internet-page filled with funny cat photos and a button titled "funny-cat-quotes" that randomly generates funny cat quotes. 
+This project assignment was for only the JavaScript Code. To use the code, I could write HTML & CSS for an internet page filled with funny cat photos and a button titled "funny-cat-quotes" that randomly generates funny cat quotes. 
 
 ## Technologies
 I wrote the JavaScript Syntax on Visual Studio Code. I cloned the repository to vs code, then created my code and pushed the project to GitHub through the main branch. 
