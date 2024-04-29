@@ -1,4 +1,4 @@
-# Portfolio Project # 1: JavaScript Syntax
+# JavaScript Syntax
 This is my 1st Portfolio Project in my Full-Stack Engineer career path with CodeCademy! ╰(*°▽°*)╯ Portfolio Projects are different than the projects I am used to because I am only given a prompt, no step-by-step guidance.
 
 ## Mixed Messages
